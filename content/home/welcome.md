@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Unicode Research** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+We are a group of undergrad and graduate students working on problems in the domains of Artificial Intelligence and Machine Learning since 2020.

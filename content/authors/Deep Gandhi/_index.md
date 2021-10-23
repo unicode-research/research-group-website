@@ -63,4 +63,4 @@ user_groups:
   - Researchers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Deep Gandhi is a senior year undergrad student specializing in Natural Langauage Processing and Federated Learning. He's currently working on trying to measure non-expert mentor impact in educational organizations using Causal Inference. He has also worked extensively on Indic languages and Hate Speech Detection with Dr.Zeerak Talat (DDI-SFU).
