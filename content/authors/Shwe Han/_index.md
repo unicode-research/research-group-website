@@ -29,7 +29,7 @@ education:
   courses:
     - course: Bachelor of Science in Computer Science and Engineering
       institution: The Ohio State University
-      year: The Ohio State University
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
