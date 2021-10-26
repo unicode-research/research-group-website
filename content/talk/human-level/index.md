@@ -6,7 +6,7 @@ event_url: https://youtu.be/wvljzoqNcF0
 
 location: UR
 address:
-  street: 
+  street:
   city: Mumbai
   region: Maharashtra
   postcode: 400067
@@ -25,7 +25,7 @@ all_day: false
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: [Jash Mehta, Deep Gandhi]
-tags: [Probablistic Programming]
+tags: [Probabilistic Programming]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -53,4 +53,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpW_K7Hlh5aDsq-vWtA7ah_79XQbZEQyytWJIaHG_fRGQOzzihSvii6Ycde7ZevdpitJDCoCV6VSWf/embed?start=true&loop=true&delayms=5000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
