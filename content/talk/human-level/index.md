@@ -1,5 +1,5 @@
 ---
-title: Human-level Concept Learning through Probabilistic Program Induction
+title: Human-level Concept Learning through Probabilistic Program Induction Paper Review
 
 event: Presentation
 event_url: https://youtu.be/wvljzoqNcF0
@@ -12,7 +12,7 @@ address:
   postcode: 400067
   country: India
 
-summary: A talk by Jash Mehta and Deep Gandhi
+summary: A paper-review by Jash Mehta and Deep Gandhi
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.

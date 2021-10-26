@@ -1,5 +1,5 @@
 ---
-title: Deep Probabilistic Programming
+title: Deep Probabilistic Programming Paper Review
 
 event: Presentation
 event_url: https://youtu.be/nT8ISRrUixQ
@@ -12,7 +12,7 @@ address:
   postcode: 400067
   country: India
 
-summary: A talk by Jash Mehta and Deep Gandhi
+summary: A paper-review by Jay Gala, Jash Mehta, and Deep Gandhi
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [Jash Mehta, Deep Gandhi]
+authors: [Jay Gala, Jash Mehta, Deep Gandhi]
 tags: [Probabilistic Programming]
 
 # Is this a featured talk? (true/false)

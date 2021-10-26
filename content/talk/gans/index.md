@@ -1,5 +1,5 @@
 ---
-title: Generative Adversarial Networks
+title: Generative Adversarial Networks Paper Review
 
 event: Presentation
 event_url: https://youtu.be/zN81O2RtD-E
@@ -12,7 +12,7 @@ address:
   postcode: 400067
   country: India
 
-summary: A talk by Aryan Chouhan and Ananya Malik
+summary: A paper-review by Aryan Chouhan and Ananya Malik
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
