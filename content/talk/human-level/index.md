@@ -25,8 +25,7 @@ all_day: false
 publishDate: "2017-01-01T00:00:00Z"
 
 authors:
-  - Jash Mehta
-  - Deep Gandhi
+  - Jash Mehta,Deep Gandhi
 tags: [Probabilistic Programming]
 
 # Is this a featured talk? (true/false)
