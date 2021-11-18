@@ -25,6 +25,8 @@ all_day: false
 publishDate: "2017-01-01T00:00:00Z"
 
 authors:
+  - Ananya Malik
+  - Aryan Chouhan
 tags: [GANs]
 
 # Is this a featured talk? (true/false)
