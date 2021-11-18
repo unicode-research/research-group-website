@@ -6,7 +6,7 @@ event_url: https://youtu.be/nT8ISRrUixQ
 
 location: UR
 address:
-  street: 
+  street:
   city: Mumbai
   region: Maharashtra
   postcode: 400067
@@ -24,7 +24,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [Jay Gala, Jash Mehta, Deep Gandhi]
+authors:
+
 tags: [Probabilistic Programming]
 
 # Is this a featured talk? (true/false)

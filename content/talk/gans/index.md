@@ -6,7 +6,7 @@ event_url: https://youtu.be/zN81O2RtD-E
 
 location: UR
 address:
-  street: 
+  street:
   city: Mumbai
   region: Maharashtra
   postcode: 400067
@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [Aryan Chouhan, Ananya Malik]
+authors:
 tags: [GANs]
 
 # Is this a featured talk? (true/false)
@@ -53,4 +53,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTukd_uV8dDCZ_sCRxtsBuV0cqlKlF9oy0vuDknpDHn_nGkN9FEPC16ikgId1iYCMHk6Nbkpk23mH3z/embed?start=true&loop=true&delayms=5000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

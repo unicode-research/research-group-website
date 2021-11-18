@@ -7,7 +7,7 @@ authors:
   - Deep Gandhi
 
 # Is this the primary user of the site?
-superuser: true
+superuser: True
 
 # Role/position
 role: Research Student

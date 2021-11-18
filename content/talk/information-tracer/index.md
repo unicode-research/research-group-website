@@ -27,7 +27,6 @@ publishDate: "2021-10-30T00:00:00Z"
 authors: [Zhouhan Chen]
 tags: [
     misinformation,
-    cross platform,
     fake news,
     human computer
     interaction,
