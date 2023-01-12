@@ -1,5 +1,5 @@
 ---
-title: Shalizi Stats Reading Group
+title: Yale Daily News Partnership
 
 # event: Wowchemy Conference
 # event_url:
@@ -12,17 +12,17 @@ title: Shalizi Stats Reading Group
 #   postcode: "94305"
 #   country: United States
 
-summary: A reading group which focuses on the book by Prof. Cosma Shalizi.
-abstract: "The initial reading group focused on the book '[Advanced Data Analysis from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)' and also [Bayesian Machine Learning](https://youtube.com/playlist?list=PLob0yCmJjJ3VrLR0qUkXUVKxyHqsdK2P6). The playlist of the reading group can be found [here](https://youtube.com/playlist?list=PLob0yCmJjJ3XT9DfcQ63ly79ICmgGU5bt)"
+summary: SimPPL is glad to announce a partnership with Yale Daily News
+abstract: "SimPPL has recently partnered with Yale Daily News to develop a tool for understanding the user base and the kind of content being consumed."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-01-30T20:00:00Z"
-date_end: "2021-06-21T20:00:00Z"
-all_day: false
+# date: "2022--22T20:00:00Z"
+# date_end: "2022-11-22T20:00:00Z"
+# all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-07-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 authors: ["Deep Gandhi"]
 tags: []

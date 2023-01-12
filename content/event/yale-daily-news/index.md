@@ -1,5 +1,5 @@
 ---
-title: Shalizi Stats Reading Group
+title: JournalismAI Project
 
 # event: Wowchemy Conference
 # event_url:
@@ -12,17 +12,17 @@ title: Shalizi Stats Reading Group
 #   postcode: "94305"
 #   country: United States
 
-summary: A reading group which focuses on the book by Prof. Cosma Shalizi.
-abstract: "The initial reading group focused on the book '[Advanced Data Analysis from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)' and also [Bayesian Machine Learning](https://youtube.com/playlist?list=PLob0yCmJjJ3VrLR0qUkXUVKxyHqsdK2P6). The playlist of the reading group can be found [here](https://youtube.com/playlist?list=PLob0yCmJjJ3XT9DfcQ63ly79ICmgGU5bt)"
+summary: JournalismAI Fellowship and the Parrot project
+abstract: "JournalismAI team [Parrot](https://drive.google.com/file/d/15lq8gDr88mw3uw6AhN5oPPOMmX4D7UDE/view) comprising Ippen Digital (DE) and The Times / The Sunday Times (UK) partnered with SimPPL for studying the spread of potentially manipulated narratives on Twitter from two well-known Russian state-backed media outlets. The Parrot platform [demo](https://parrot.report/) with The Times (UK) was presented at the [JournalismAI Festival 2022](https://www.journalismaifestival.com/2022-fellows)."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-01-30T20:00:00Z"
-date_end: "2021-06-21T20:00:00Z"
-all_day: false
+# date: "2022--22T20:00:00Z"
+# date_end: "2022-11-22T20:00:00Z"
+# all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-07-01T00:00:00Z"
+publishDate: "2022-11-23T00:00:00Z"
 
 authors: ["Deep Gandhi"]
 tags: []

@@ -14,7 +14,7 @@ role: Research Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Dwarkadas J. Sanghvi College of Engineering
+  - name: University of Alberta
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-    - course: BE in Computer Engineering
-      institution: University of Mumbai
-      year: 2018-2022
+    - course: MSc in Computing Science
+      institution: University of Alberta
+      year: 2022-2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,4 +63,4 @@ user_groups:
   - Researchers
 ---
 
-Deep Gandhi is a senior year undergrad student specializing in Natural Langauage Processing and Federated Learning. He's currently working on trying to measure non-expert mentor impact in educational organizations using Causal Inference. He has also worked extensively on Indic languages and Hate Speech Detection with Dr.Zeerak Talat (DDI-SFU).
+Deep Gandhi is a graduate student student specializing in Natural Langauage Processing and Federated Learning. He has also worked extensively on Indic languages and Hate Speech Detection with Dr.Zeerak Talat (DDI-SFU). He currently works at the Trustworthy and Robust Algorithms in Machine Learning Lab at University of Alberta supervised by Prof. Nidhi Hegde.

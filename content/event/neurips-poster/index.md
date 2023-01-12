@@ -1,5 +1,5 @@
 ---
-title: Shalizi Stats Reading Group
+title: Expanding Access to ML Research through Student-led Collaboratives
 
 # event: Wowchemy Conference
 # event_url:
@@ -12,17 +12,17 @@ title: Shalizi Stats Reading Group
 #   postcode: "94305"
 #   country: United States
 
-summary: A reading group which focuses on the book by Prof. Cosma Shalizi.
-abstract: "The initial reading group focused on the book '[Advanced Data Analysis from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)' and also [Bayesian Machine Learning](https://youtube.com/playlist?list=PLob0yCmJjJ3VrLR0qUkXUVKxyHqsdK2P6). The playlist of the reading group can be found [here](https://youtube.com/playlist?list=PLob0yCmJjJ3XT9DfcQ63ly79ICmgGU5bt)"
+summary: Our poster got accepted at the NeurIPS 2022 Workshop on Broadening Research Collaborations
+abstract: "A team of research students prepared and submitted a perspective paper which was accepted as a poster at NeurIPS 2022 Workshop on Broadening Research Collaborations. The paper can be viewed [here](https://openreview.net/forum?id=YBk2jG7MEaX)."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-01-30T20:00:00Z"
-date_end: "2021-06-21T20:00:00Z"
-all_day: false
+# date: "2022--22T20:00:00Z"
+# date_end: "2022-11-22T20:00:00Z"
+# all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-07-01T00:00:00Z"
+publishDate: "2022-12-08T00:00:00Z"
 
 authors: ["Deep Gandhi"]
 tags: []
