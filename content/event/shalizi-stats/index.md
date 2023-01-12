@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-11-23T00:00:00Z"
 
-authors: []
+authors: ["Deep Gandhi"]
 tags: []
 
 # Is this a featured talk? (true/false)
