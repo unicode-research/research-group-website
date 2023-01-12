@@ -1,7 +1,7 @@
 ---
 title: Shalizi Stats Reading Group
 date: 2021-01-30
-author: admin
+authors: "admin"
 ---
 
 A reading group which focuses on the book by Prof. Cosma Shalizi
