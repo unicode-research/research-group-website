@@ -1,7 +1,7 @@
 ---
 title: "Expanding Access to ML Research through Student-led Collaboratives"
-# authors:
-#   - admin
+authors:
+  - admin
 #   - Robert Ford
 date: "2022-12-08T00:00:00Z"
 doi: ""
